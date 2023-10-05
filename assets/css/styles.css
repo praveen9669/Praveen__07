@@ -8,14 +8,14 @@
 h1
 {
 	position: relative;
-  word-spacing: 0%;
+        word-spacing: 0%;
 	font-size: 20px;
 	letter-spacing: 1px;
 	color: #0e3742;
 	text-transform: uppercase;
 	width: 70%;
 	text-align: center;
-	-webkit-box-reflect: below 1px linear-gradient(transparent,#0008);
+	-webkit-box-reflect: below 2px linear-gradient(transparent,#0008);
 	line-height: 0.90em;
 	outline: none;
 	animation: animate 5s linear infinite;
