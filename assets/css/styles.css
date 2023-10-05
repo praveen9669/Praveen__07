@@ -241,7 +241,7 @@ body.dark-theme {
     color: #ffffff;
   }
 
-  .socicon.dark-theme a {
+  .socicon a {
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -252,14 +252,14 @@ body.dark-theme {
   box-shadow: 0 4px 4px rgb(59, 57, 57);
   transform: translateY(02) scale(1);
   transition: 0.3s;
-}
+  }
 
-.socicon.dark-theme a i {
+.socicon a i {
   font-size: 18px;
   color: #000000;
   line-height: 40px;
   transition: 0.3s;
-}
+  }
   .socicon:nth-child(5):hover span {
     color: hwb(0 100% 0%);
   }
